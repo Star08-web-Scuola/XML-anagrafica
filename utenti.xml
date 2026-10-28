@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<utenti>
+    <utente id="1">
+        <nome>Monika</nome>
+        <cognome>Deleay</cognome>
+        <ddn>22-09-1999</ddn>
+    </utente>
+    <utente id="2">
+        <nome>Yuri</nome>
+        <cognome>Amaretto</cognome>
+        <ddn>28-10-1999</ddn>
+    </utente>
+    <utente id="3">
+        <nome>Natsuki</nome>
+        <cognome>Sato</cognome>
+        <ddn>30-07-1999</ddn>
+    </utente>
+    <utente id="4">
+        <nome>Sayori</nome>
+        <cognome>Mykanoto</cognome>
+        <ddn>11-05-1999</ddn>
+    </utente>
+    <utente id="5">
+        <nome>Rebecca</nome>
+        <cognome>Freund</cognome>
+        <ddn>15-11-1988</ddn>
+    </utente>
+    <utente id="6">
+        <nome>Edward Edwin</nome>
+        <cognome>Statewin</cognome>
+        <ddn>11-07-1999</ddn>
+    </utente>
+</utenti>
